@@ -1,0 +1,1 @@
+Game is located at: Avatar\Build\avatar.exe
